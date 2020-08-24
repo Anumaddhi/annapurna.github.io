@@ -1,0 +1,38 @@
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: aquamarine;
+    overflow-x: hidden;
+  }
+#img{
+  padding: 50px;
+  height: 300px;
+  width: 300px;
+
+}
+.head{
+  color: black;
+    font-family: fantasy;
+  padding-left:20px;
+}
+.content {
+  margin-left: 300px;
+  padding-left: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align:center;
+  
+  
+}
+#ab{
+  text-align: center;
+  font-family: cursive;
+}
+#list{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+  
+}
